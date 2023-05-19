@@ -14,7 +14,7 @@ The Motivational Message Generator is a JavaScript program that generates random
 
 1. Make sure you have Node.js installed on your computer. You can download it from the official Node.js website (https://nodejs.org).
 
-2. Save the JavaScript code in a file named `messageGenerator.js`.
+2. Save the JavaScript code in a file named `script.js`.
 
 3. Open a terminal or command prompt and navigate to the directory where you saved the `messageGenerator.js` file.
 
